@@ -1,5 +1,5 @@
 - 👋 Hi, Im Arseniy
-- 👀 I’m interested in it, wanna know ab processes in PC
+- 👀 I’m interested in IT, wanna know ab processes in PC
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on.... 
 - 📫 How to reach me ars111812@gmail.com 
